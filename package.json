@@ -1,0 +1,16 @@
+{
+  "name": "coding-interview",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": "git@github.com:Falinor/coding-interview.git",
+  "author": "Andrea Gueugnaut <andrea.gueugnaut@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "ava",
+    "test:watch": "npm test -- --watch"
+  },
+  "devDependencies": {
+    "ava": "^1.0.0-beta.4"
+  }
+}
